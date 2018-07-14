@@ -1,0 +1,48 @@
+#chart{
+    width: 800px;
+    height: 600px;
+    background-color: #f7f7f7;
+    margin: 25px auto;
+    font-family: "Roboto";
+}
+
+.infotitles{
+	fill: #111;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.infotext{
+	font-weight: normal;
+}
+
+#buttons{
+	width: 800px;
+	margin: 25px auto;
+	text-align: center;
+}
+
+button{
+	background-color: #295149;
+	color: #fff;
+	width: 100px;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+	border: 0;
+	outline: 0;
+	transition: all .2s linear;
+	cursor: pointer;
+}
+
+button:hover{
+	background-color: #50B98C;
+}
+
+.infolink:hover {
+		  cursor: pointer;
+		}
+
+.moreinfotext{
+	font-size: 11px;
+}
